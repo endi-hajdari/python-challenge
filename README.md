@@ -11,7 +11,7 @@ This challenge is associated with Module 3 of UofT's 2022-2023 Data Analytics Bo
     - A ```Resources``` folder that contains the ```CSV``` files used for each respective analysis;
     - An ```Analysis``` folder that contains a ```.txt``` file that has the main results from each respective analysis;
     - A ```ipynb``` file of the main script run for each respective analysis, but saved as a Jupyter Notebook file;
-    - A ```CSV``` files that was used for each respective analysis; and
+    - A ```CSV``` file that was used for each respective analysis; and
     - A ```.txt``` file that has the main results from each respective analysis.
     
 # PyBank Project Description
