@@ -8,8 +8,11 @@ This challenge is associated with Module 3 of UofT's 2022-2023 Data Analytics Bo
 - Inside this repository, there are two folders titled ```PyBank``` and ```PyPoll```. Each folder houses the contents for each specific Python-based analysis.
 - In each folder, the following content may be found:
     - A file called ```main.py```. This is the main script that was run for each respective analysis;
-    - A ```Resources``` folder that contains the ```CSV``` files used for each respective analysis; and
-    - An ```Analysis``` folder that contains a ```.txt``` file that has the main results from each respective analysis.
+    - A ```Resources``` folder that contains the ```CSV``` files used for each respective analysis;
+    - An ```Analysis``` folder that contains a ```.txt``` file that has the main results from each respective analysis;
+    - A ```ipynb``` file of the main script run for each respective analysis, but saved as a Jupyter Notebook file;
+    - A ```CSV``` files that was used for each respective analysis; and
+    - A ```.txt``` file that has the main results from each respective analysis.
     
 # PyBank Project Description
 In this Challenge, a Python script was created to analyze the financial records of a company. The financial dataset used in the analysis was called ```budget_data.csv```. The dataset was composed of two columns: ```Date``` and ```Profit/Losses```. The Python script created analyzed the records to calculate each of the following values:
