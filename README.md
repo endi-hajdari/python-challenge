@@ -37,3 +37,6 @@ In this Challenge, a Python script was created to aid a small, rural town modern
 The final script both printed the analysis to the terminal and exported a ```TXT``` file titled ```PyPoll.txt``` with the results. The results of the analysis were as follows:
 
 <img width="823" alt="Screen Shot 2022-11-14 at 9 24 26 PM" src="https://user-images.githubusercontent.com/113209883/201811144-84860695-2231-4e37-b620-b8aaf6f71f1d.png">
+
+# References
+Dataset created by Trilogy Education Services, a 2U, Inc. brand.
