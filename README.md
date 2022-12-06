@@ -2,7 +2,7 @@
 ```Module 3 Challenge:``` Py Me Up, Charlie
 
 # Project Overview 
-This challenge is associated with Module 3 of UofT's 2022-2023 Data Analytics Bootcamp. Given the large sizes of each of the datasets, Python scripts were created over performing Excel-based analyses. Moreover, two Python scripts were written making use of the ```NumPy``` and ```Pandas``` libraries. These libraries made reading, analyzing, and extracting information from the ```CSV``` files much simpler. The script titled ```PyBank``` was used to analyze a dataset of a company's financial records, and the script titled ``` PyPoll``` was used to analyze the results of a local election.
+This challenge is associated with ```Module 3``` of **UofT's 2022-2023 Data Analytics Bootcamp**. Given the large sizes of each of the datasets, Python scripts were created over performing Excel-based analyses. Moreover, two Python scripts were written making use of the ```NumPy``` and ```Pandas``` libraries. These libraries made reading, analyzing, and extracting information from the ```CSV``` files much simpler. The script titled ```PyBank``` was used to analyze a dataset of a company's financial records, and the script titled ``` PyPoll``` was used to analyze the results of a local election.
 
 # Folder Structure Breakdown
 - Inside this repository, there are two folders titled ```PyBank``` and ```PyPoll```. Each folder houses the contents for each specific Python-based analysis.
